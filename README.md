@@ -5,6 +5,7 @@ A tourism app built with flutter.
 - View destinations
 - View hotels
 - View activities etc.
+- No backend included
 
 ## App Screenshots
 <img src="https://user-images.githubusercontent.com/41088100/142068808-8623ea5d-d5cc-416c-9fe2-384213a1411a.png" alt="alt text" width="240" height="500">
